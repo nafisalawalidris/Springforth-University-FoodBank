@@ -4,7 +4,19 @@
 </head>
 <body>
   <h1>Springforth University Food Bank</h1>
-
+ <h2>Overview</h2>
+  <p>Springforth University (SpU) Food Bank is a collaborative initiative between Springforth University and the United Nations Educational, Scientific and Cultural Organization (UNESCO) to address food insecurity among students. This repository contains the code and resources for the web application of the SpU Food Bank.</p>
+  
+  <h2>Features</h2>
+  <ul>
+    <li>User-friendly web interface to register, access, and manage food bank services.</li>
+    <li>Online food request system allowing students to request food packages based on their specific dietary needs.</li>
+    <li>Integration with Springforth University's student database to verify student eligibility for food bank services.</li>
+    <li>Dashboard for administrators to track food inventory, manage donations, and generate reports on food distribution and impact.</li>
+  </ul>
+  
+  <h2>Data Analysis and Insights</h2>
+  <p>The data analysis conducted by Nafisa Lawal Idris, revealed the prevalence of food insecurity among students and its detrimental impact on academic performance. These insights informed the decision to establish the SpU Food Bank in collaboration with UNESCO.</p>
   <h2>Description</h2>
   <p>This repository contains the code and resources for performing descriptive analysis using Excel and visualizing the data using Power BI. The analysis focuses on food insecurity and its impact on students' academic performance at Springforth University. The goal is to provide insights and recommendations for the establishment of a food bank on campus in collaboration with the United Nations Educational, Scientific and Cultural Organization (UNESCO).</p>
 
