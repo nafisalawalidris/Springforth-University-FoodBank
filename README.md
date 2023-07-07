@@ -31,6 +31,9 @@
   <h2>Analysis Process</h2>
   <ol>
     <li>Data Preparation: The dataset of student responses was collected and stored in the <code>data.xlsx</code> file. The data was cleaned and organized for analysis.</li>
+    
+    ![Step 1 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/77d97406-c79f-4eb4-b4b5-ebe66c0ffe2d)
+
     <li>Descriptive Analysis using Excel: Excel was used to perform descriptive analysis on the dataset. Various calculations, charts, and pivot tables were created to explore the relationships between food insecurity, academic performance, and other factors. The results were documented in the <code>analysis.xlsx</code> file.</li>
     <li>Visualization using Power BI: Power BI was employed to create interactive visualizations based on the dataset. These visualizations offer a comprehensive view of the data, allowing for deeper insights and facilitating data-driven decision-making.</li>
     <li>Insights and Recommendations: Based on the descriptive analysis and visualizations, key insights were derived regarding the prevalence of food insecurity, its impact on academic performance, and other factors contributing to the issue. Recommendations were formulated to justify the establishment of a food bank on campus in collaboration with UNESCO.</li>
