@@ -55,3 +55,5 @@
 ### Step 1 ###
 ![Step 1 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/f06cdb6a-1dc1-46a3-a5cc-c7e5ae22a7ef)
 
+### Step 2 ###
+![Step 3 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/3744dc90-6a86-49ce-acc8-e7383c10aa4d)
