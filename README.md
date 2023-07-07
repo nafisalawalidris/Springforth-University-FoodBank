@@ -23,8 +23,6 @@
   <h2>Contents</h2>
   <ul>
     <li><code>data.xlsx</code>: The Excel file containing the dataset of student responses on food insecurity and related factors.</li>
-    ![Step 1 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/4db63152-352d-435b-a9e6-1ce9b1405d0a)
-
     <li><code>analysis.xlsx</code>: The Excel file containing the descriptive analysis performed on the dataset, including calculations, charts, and pivot tables.</li>
     <li><code>report.pdf</code>: A PDF report summarizing the key findings, insights, and recommendations derived from the analysis.</li>
     <li><code>visualizations.pbix</code>: The Power BI file containing the visualizations created using the dataset to gain a deeper understanding of the data.</li>
