@@ -4,7 +4,8 @@
 </head>
 <body>
   <h1>Springforth University Food Bank</h1>
- <h2>Overview</h2>
+![Step 4 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/b373a1cf-6f98-496f-a2f6-3faa7a4b3d69)
+  <h2>Overview</h2>
   <p>Springforth University (SpU) Food Bank is a collaborative initiative between Springforth University and the United Nations Educational, Scientific and Cultural Organization (UNESCO) to address food insecurity among students. This repository contains the code and resources for the web application of the SpU Food Bank.</p>
   
   <h2>Features</h2>
