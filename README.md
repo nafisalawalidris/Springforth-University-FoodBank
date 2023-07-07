@@ -59,7 +59,7 @@
 ![Step 3 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/3744dc90-6a86-49ce-acc8-e7383c10aa4d)
 
 ### Step 3 ###
-![Step 4 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/e53bda99-0ebd-4860-b460-06c74933b3e0)
+![Step 4 (2)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/2c278de0-4b68-4314-94a4-8abe26ae28b6)
 
 ### Step 4 ###
 ![Step 5 (1)](https://github.com/elfeenah/Springforth-University-FoodBank/assets/111433655/4e009fcb-366e-41b6-886d-4f4837afe8cd)
